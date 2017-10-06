@@ -1,0 +1,1 @@
+start /d "..\CV\CV\bin\Debug" CV.exe
